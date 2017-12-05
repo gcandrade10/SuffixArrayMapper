@@ -97,5 +97,11 @@ public class SuffixArraySimple
 		return seqName;
 	}
 
+	public ArrayList<Integer> getSufixes() {
+		return sufixes;
+	}
+	
+	
+
 
 }
